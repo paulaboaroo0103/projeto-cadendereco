@@ -8,7 +8,7 @@
 [Autores]  ()
 
 # 👩🏽‍💻 Projeto - Endereço
-![imagem](imgmodelo/capa.png)
+![imagem](img/capa.png)
 
 ## 📝 Descrição
 
