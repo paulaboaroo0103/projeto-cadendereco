@@ -78,8 +78,44 @@ Redigir
 - JavaScript;
 - Captura de Tela;
 - Plataformas, para converter vídeo em gif;
-- Pasta de Arquivos, entre outrso;
+- Pasta de Arquivos, entre outros;
 
+[09:42] PAULA VITORIA BOARO DA CUNHA
+
+Aqui está uma breve descrição das tecnologias mencionadas:
+
+
+### 1. Git:
+ É um sistema de controle de versão amplamente utilizado para rastrear mudanças em arquivos durante o desenvolvimento de software. Ele permite que equipes trabalhem juntas de forma colaborativa e mantenham um histórico das alterações feitas.
+
+
+### 2. GitHub: 
+É uma plataforma de hospedagem de código-fonte e colaboração baseada em Git. Ela oferece recursos adicionais, como controle de acesso, gerenciamento de problemas e integração contínua, facilitando o desenvolvimento de projetos em equipe.
+
+
+### 3. VScode (Visual Studio Code):
+ É um editor de código-fonte altamente popular e amplamente utilizado. Ele oferece uma ampla variedade de recursos e extensões para melhorar a produtividade dos desenvolvedores.
+
+
+### 4. HTML (Hypertext Markup Language): 
+É a linguagem de marcação padrão usada para criar páginas da web. Ela define a estrutura e organização do conteúdo de uma página, permitindo que os navegadores interpretem e exibam corretamente o conteúdo.
+
+
+### 5. JavaScript:
+ É uma linguagem de programação de alto nível que adiciona interatividade e dinamismo às páginas da web. Ela é frequentemente usada para criar comportamentos e funcionalidades avançadas em sites.
+
+
+### 6. Captura de tela:
+ Refere-se ao processo de capturar uma imagem estática da tela do computador ou dispositivo móvel. Existem várias ferramentas e métodos disponíveis para capturar telas, incluindo atalhos de teclado e software especializado.
+
+
+### 7. Plataformas para converter vídeo em GIF:
+ Existem várias plataformas online e ferramentas de software que permitem converter vídeos em arquivos GIF animados. Alguns exemplos populares incluem Giphy, Ezgif e Adobe Photoshop.
+ 
+
+
+### 8. Pasta de arquivos: 
+ Uma pasta de arquivos é um diretório em um sistema de arquivos que pode conter arquivos, subpastas e outros diretórios. É uma maneira organizada de armazenar e estruturar arquivos em um computador ou dispositivo de armazenamento.
 
 ## 💻 Fontes consultadas
 
