@@ -111,7 +111,7 @@ Aqui está uma breve descrição das tecnologias mencionadas:
 
 ### 7. Plataformas para converter vídeo em GIF:
  Existem várias plataformas online e ferramentas de software que permitem converter vídeos em arquivos GIF animados. Alguns exemplos populares incluem Giphy, Ezgif e Adobe Photoshop.
- 
+
 
 
 ### 8. Pasta de arquivos: 
@@ -123,3 +123,4 @@ Aqui está uma breve descrição das tecnologias mencionadas:
 
 Hoje fizemos a tradução de algumas palavras, do código que pegamos no Bootstrap, efetuamos algumas alterações do código.(19/09/23)
 para o README colocar gifs, links, fotos de como pegamos o modelo no bootstrap e ir ligando caminhos explicando eles. Conforme oq foi feito e conforme oq será feito(ANOTAÇÕES PARA FAZER O README).
+O que é a função assincrona ,colocar no README . 29/09/23
