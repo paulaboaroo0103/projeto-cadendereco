@@ -80,7 +80,6 @@ Redigir
 - Plataformas, para converter vídeo em gif;
 - Pasta de Arquivos, entre outros;
 
-[09:42] PAULA VITORIA BOARO DA CUNHA
 
 Aqui está uma breve descrição das tecnologias mencionadas:
 
@@ -113,14 +112,58 @@ Aqui está uma breve descrição das tecnologias mencionadas:
  Existem várias plataformas online e ferramentas de software que permitem converter vídeos em arquivos GIF animados. Alguns exemplos populares incluem Giphy, Ezgif e Adobe Photoshop.
 
 
-
 ### 8. Pasta de arquivos: 
  Uma pasta de arquivos é um diretório em um sistema de arquivos que pode conter arquivos, subpastas e outros diretórios. É uma maneira organizada de armazenar e estruturar arquivos em um computador ou dispositivo de armazenamento.
 
-## 💻 Fontes consultadas
+## 💻 Fontes consultada
+
+- Bootstrap;
+- Genie;
+- Google;
+- Google Tradutor;
+- Microsoft Bing;
+- GitHub;
+- Vscode;
+- README, entre outros.
+
+
+- [Bootstrap](https://getbootstrap.com/)
+- [Genie Mobile App](https://www.genie.com/)
+- [Google](https://www.google.com/)
+- [Google Tradutor](https://www.google.com/search?q=google+tradutor&rlz)
+- [Microsoft Bing](https://www.bing.com/)
+- [GitHub](https://github.com/)
+- [VScode](https://code.visualstudio.com/)
+- [Readme](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### 1 Bootstrap:
+ Bootstrap é um conhecido framework de front-end utilizado para desenvolver sites responsivos e interfaces web.
+
+### 2 Genie:
+ O Genie é um aplicativo móvel desenvolvido pela OpenAI que permite aos usuários interagir comigo, o ChatGPT, um modelo de linguagem avançado baseado no GPT-3.5. Você pode fazer perguntas, obter informações, solicitar conselhos e até mesmo ter conversas informais comigo. Estou aqui para ajudar no que puder!
+
+### 3 Google: 
+Google é uma empresa multinacional conhecida por seus produtos e serviços de tecnologia, incluindo o motor de busca do Google, Gmail, Google Maps, Google Tradutor e muitos outros.
+
+### 4 Google Tradutor: 
+Google Tradutor é um serviço online oferecido pelo Google que permite traduzir texto, palavras e até mesmo páginas da web entre diferentes idiomas usando tecnologia de tradução automática.
+
+### 5 Microsoft Bing:
+ Bing é um mecanismo de busca desenvolvido pela Microsoft, que oferece resultados de pesquisa, imagens, vídeos, notícias e outros recursos similares ao Google.
+
+### 6 GitHub:
+ GitHub é uma plataforma web baseada em Git, que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software. Ele é amplamente utilizado para controle de versão, colaboração e compartilhamento de código.
+
+### 7 VScode:
+ VScode, ou Visual Studio Code, é um editor de código-fonte leve e altamente personalizável desenvolvido pela Microsoft. Ele é amplamente utilizado por programadores e desenvolvedores para escrever, depurar e editar código.
+
+### 8 README: 
+Um arquivo README, geralmente chamado README.md, é um documento de texto usado em projetos de software para fornecer informações sobre o projeto, instruções de instalação, uso e outras informações relevantes para os colaboradores e usuários do projeto.
+
 
 ## ✒️ Autores
 
-Hoje fizemos a tradução de algumas palavras, do código que pegamos no Bootstrap, efetuamos algumas alterações do código.(19/09/23)
-para o README colocar gifs, links, fotos de como pegamos o modelo no bootstrap e ir ligando caminhos explicando eles. Conforme oq foi feito e conforme oq será feito(ANOTAÇÕES PARA FAZER O README).
-O que é a função assincrona ,colocar no README . 29/09/23
+### COLABORADORES:
+| [<img loading="lazy" src="https://user-images.githubusercontent.com/127847275/272244520-740a7042-aefd-42c6-ad38-536121527e4b.png" width=95><br><sub>Paula Boaro</sub>](https://github.com/paulaboaroo0103)
+|  [<img loading="lazy" src="https://user-images.githubusercontent.com/86802310/268408790-48baaee3-ce37-4ad6-9348-ecb738990343.png" width=95><br><sub>Leonardo Rocha </sub>](https://github.com/leonardorochamarista)
+| :---: | :---: |
