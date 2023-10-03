@@ -11,8 +11,9 @@
 ![imagem](img/capa.png)
 
 ## 📝 Descrição
+ 
 
-Projeto em desenvolvimento na disciplina de Programação Web I,começamos o projeto no dia 20/09/2023 , nesse projeto utilizamos mais uma vez, um, modelo pronto extraído do [BootsTrap](https://getbootstrap.com/docs/5.3/forms/layout/#gutters) será o segundo modelo desta página, irei fazer um passo a passo para facilitar o seu projeto e para ajudar visivelmente.
+Projeto em desenvolvimento na disciplina de Programação Web I,começamos o projeto no dia 20/09/2023 , nesse projeto utilizamos mais uma vez, um, modelo pronto extraído do [BootsTrap](https://getbootstrap.com/docs/5.3/forms/layout/#gutters) será o segundo modelo desta página, irei fazer um passo a passo para facilitar o seu projeto e para ajudar visivelmente. Final do projeto 03/10/2023.
 ![imagem](img/Gravando%202023-09-22%20101749.gif)
  Nesse modelo vamos fazer uma página de endereço,apresentado na imagem inicial do projeto, e ao longo do processo fizemos algumas alterações e ainda vamos continuar execuntado algumas alterações, até o projeto ficar plenamente no resultado que pretendemos.
 
@@ -150,6 +151,12 @@ Google Tradutor é um serviço online oferecido pelo Google que permite traduzir
 ### 8 README: 
 Um arquivo README, geralmente chamado README.md, é um documento de texto usado em projetos de software para fornecer informações sobre o projeto, instruções de instalação, uso e outras informações relevantes para os colaboradores e usuários do projeto.
 
+## 🤝🏽 Conclusão 
+
+### Ínicio:
+20/09/2023
+### Fim:
+03/10/2023
 
 ## ✒️ Autores
 | [<img loading="lazy" src="https://user-images.githubusercontent.com/127847275/272244520-740a7042-aefd-42c6-ad38-536121527e4b.png" width=95><br><sub>Paula Boaro</sub>](https://github.com/paulaboaroo0103) 
