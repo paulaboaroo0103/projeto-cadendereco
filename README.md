@@ -117,16 +117,6 @@ Aqui está uma breve descrição das tecnologias mencionadas:
 
 ## 💻 Fontes consultada
 
-- Bootstrap;
-- Genie;
-- Google;
-- Google Tradutor;
-- Microsoft Bing;
-- GitHub;
-- Vscode;
-- README, entre outros.
-
-
 - [Bootstrap](https://getbootstrap.com/)
 - [Genie Mobile App](https://www.genie.com/)
 - [Google](https://www.google.com/)
