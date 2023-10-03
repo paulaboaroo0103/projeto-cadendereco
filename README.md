@@ -162,8 +162,9 @@ Um arquivo README, geralmente chamado README.md, é um documento de texto usado 
 
 
 ## ✒️ Autores
+| [<img loading="lazy" src="https://user-images.githubusercontent.com/127847275/272244520-740a7042-aefd-42c6-ad38-536121527e4b.png" width=95><br><sub>Paula Boaro</sub>](https://github.com/paulaboaroo0103) 
+| :---: |
 
 ### COLABORADORES:
-| [<img loading="lazy" src="https://user-images.githubusercontent.com/127847275/272244520-740a7042-aefd-42c6-ad38-536121527e4b.png" width=95><br><sub>Paula Boaro</sub>](https://github.com/paulaboaroo0103)
 |  [<img loading="lazy" src="https://user-images.githubusercontent.com/86802310/268408790-48baaee3-ce37-4ad6-9348-ecb738990343.png" width=95><br><sub>Leonardo Rocha </sub>](https://github.com/leonardorochamarista)
-| :---: | :---: |
+| :---: |
