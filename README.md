@@ -17,7 +17,7 @@ Projeto em desenvolvimento na disciplina de Programação Web I,começamos o pro
 ![imagem](img/Gravando%202023-09-22%20101749.gif)
  Nesse modelo vamos fazer uma página de endereço,apresentado na imagem inicial do projeto, e ao longo do processo fizemos algumas alterações e ainda vamos continuar execuntado algumas alterações, até o projeto ficar plenamente no resultado que pretendemos.
 
-## 🕹️ Funcionalidades
+## 🕹️ Recursos
 
 - Algumas das principais funcionalidades oferecidas pelo Bootstrap, um framework front-end popular para o desenvolvimento web. Aqui estão algumas das funcionalidades mais comuns que você pode encontrar ao usar o Bootstrap em seus projetos:
 
@@ -45,7 +45,25 @@ O Bootstrap é desenvolvido levando em consideração a compatibilidade com vár
 
 - Uma página de endereço em um site geralmente tem a funcionalidade de exibir e coletar informações relacionadas ao endereço do usuário. Essa página pode permitir que os usuários insiram seus detalhes de endereço, como rua, número, cidade, estado, código postal e país, além de fornecer opções adicionais, como campos para endereço de entrega e endereço de cobrança.
 
-- A funcionalidade principal de uma página de endereço é permitir que os usuários forneçam suas informações de localização de forma precisa e eficiente. Essas informações podem ser usadas para várias finalidades, como:
+- A funcionalidade principal de uma página de endereço é permitir que os usuários forneçam suas informações de localização de forma precisa e eficiente. 
+
+`Preenchimento de endereço` - Ao digitar o CEP os campos **Rua**, **Bairro**, **Cidade** e **Estado** 
+Tela 1
+
+`CEP Informado não existe` - 
+
+`CEP informado Incompleto` - 
+
+`Não informar o CEP` - 
+
+
+
+
+
+
+## ## Onde utilizar este projeto 
+
+Esse projeto pode ser usado para várias finalidades, como:
 
 ### 1. Entrega de produtos:
  Ao fazer compras online, os usuários podem precisar inserir seu endereço para que os produtos sejam enviados ao local correto.
@@ -153,7 +171,7 @@ Um arquivo README, geralmente chamado README.md, é um documento de texto usado 
 
 ## 🤝🏽 Conclusão 
 
-### Ínicio:
+### Início:
 20/09/2023
 ### Fim:
 03/10/2023
