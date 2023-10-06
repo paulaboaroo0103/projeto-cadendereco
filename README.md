@@ -58,12 +58,15 @@ O Bootstrap é desenvolvido levando em consideração a compatibilidade com vár
 ![imagem](img/tela1.gif)
 
 `CEP Informado não existe` - 
+
 ![imagem](img/videotela2.gif)
 
-`CEP informado Incompleto` - 
+`CEP informado Incompleto` 
+- 
 ![imagem](img/tela3.gif)
 
-`Não informar o CEP` - 
+`Não informar o CEP` -  
+
 ![imagem](img/tela4.gif)
 
 
