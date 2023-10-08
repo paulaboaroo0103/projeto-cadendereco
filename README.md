@@ -53,7 +53,7 @@ O Bootstrap é desenvolvido levando em consideração a compatibilidade com vár
 
 - A funcionalidade principal de uma página de endereço é permitir que os usuários forneçam suas informações de localização de forma precisa e eficiente. 
 
-`Preenchimento de endereço` - Ao digitar o CEP os campos **Rua**, **Bairro**, **Cidade** e **Estado** váo ser preenchidos.
+`Preenchimento de endereço` - Ao digitar o CEP os campos **Rua**, **Bairro**, **Cidade** e **Estado** vão ser preenchidos.
 
 ![imagem](img/tela1.gif)
 
